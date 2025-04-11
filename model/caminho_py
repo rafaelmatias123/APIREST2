@@ -1,0 +1,4 @@
+import os
+
+# Caminho absoluto do diretório atual
+print(os.getcwd())
